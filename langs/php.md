@@ -2,8 +2,10 @@
 
 ## Code
 - **Follow the [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) coding guidelines**, with the following exceptions:
+
     - underscore_case is ok for naming variables and functions if you prefer it to camelCase (it’s arguably [easier to read](https://whathecode.wordpress.com/2013/02/16/camelcase-vs-underscores-revisited/)), but if you use it, don't mix with camelCase (ie. choose one and use it consistently).
     - Opening curly brackets may always be on a new line. eg: 
+
         ```php
         if ($status === 3)
         {
