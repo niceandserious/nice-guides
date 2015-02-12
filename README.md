@@ -28,11 +28,11 @@ To avoid inconsistencies and confusing diffs, try to stick to the following:
 ## Languages
 
 1. [HTML](/langs/html.md)
-2. [CSS](/langs/css.md)
-3. [JavaScript](/langs/javascript.md)
-4. [Ruby](/langs/ruby.md)
+2. [CSS](/langs/css.md) [WIP]
+3. [JavaScript](/langs/javascript.md) [WIP]
+4. [Ruby](/langs/ruby.md) [WIP]
 5. [PHP](/langs/php.md)
-6. [Git](/langs/git.md)
+6. [Git](/langs/git.md) [WIP]
 
 ## Credits
 
