@@ -4,8 +4,26 @@ These guides are for keeping track of how we write code. We're aiming for both c
 
 ## General principles
 
-- Consistency of coding style within a project is more important than adhering to any coding standard. If you’re working with an existing project or framework, use its existing style.
-- **Comment everything** non-trivial (and even trivial things, if you like). Be clear, and as verbose as you like. Over-commenting is better than under-commenting. Write for your future self as much as anyone else. Ideally, it should be possible to get a good idea of what the code does by reading through the comments alone.
+- __Consistency__ of coding style is more important than adhering to any coding standard. If you’re working with an existing project or framework, use its existing style.
+- __Comment everything__ non-trivial (and even trivial things, if you like).
+  - Be clear, and as verbose as you like.
+  - Over-commenting is better than under-commenting.
+  - Write for your future self as much as anyone else.
+- Go for __readability over compression__.
+  - Plenty of whitespace!
+  - If a longer variable name makes the code more readable, do it!
+  - Let the build tools do the compression.
+
+## Editor preferences
+
+Install the [EditorConfig](http://editorconfig.org/) plugin for your text editor and try to use an ```.editorconfig``` file when you're starting a new project.
+
+To avoid inconsistencies and confusing diffs, try to stick to the following:
+
+- Use __soft tabs with 2 spaces__.
+- Trim trailing white space on save.
+- Set encoding to UTF-8.
+- Add new line at the end of files.
 
 ## Languages
 
