@@ -28,7 +28,7 @@ To avoid inconsistencies and confusing diffs, try to stick to the following:
 ## The guides
 
 1. [HTML](/guides/html.md)
-2. [CSS](/guides/css.md) [WIP]
+2. [CSS](/guides/css.md)
 3. [JavaScript](/guides/javascript.md) [WIP]
 4. [Ruby](/guides/ruby.md) [WIP]
 5. [PHP](/guides/php.md)

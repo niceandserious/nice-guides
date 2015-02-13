@@ -105,6 +105,8 @@ Things not to worry too much about:
 
 Don't unnecessarily nest in Sass. If you're giving most things a class, it's not necessary to nest selectors – this just creates more specific style rules that aren't as reusable. As a rough guide, try not to go beyond 3 levels deep.
 
+Leave a blank line before your nested selector, it makes it easier to spot!
+
 Nesting _is_ really useful for element states and pseudo elements, for example:
 
 ```css
