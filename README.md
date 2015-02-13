@@ -25,14 +25,15 @@ To avoid inconsistencies and confusing diffs, try to stick to the following:
 - Set encoding to UTF-8.
 - Add new line at the end of files.
 
-## Languages
+## The guides
 
-1. [HTML](/langs/html.md)
-2. [CSS](/langs/css.md) [WIP]
-3. [JavaScript](/langs/javascript.md) [WIP]
-4. [Ruby](/langs/ruby.md) [WIP]
-5. [PHP](/langs/php.md)
-6. [Git](/langs/git.md) [WIP]
+1. [HTML](/guides/html.md)
+2. [CSS](/guides/css.md) [WIP]
+3. [JavaScript](/guides/javascript.md) [WIP]
+4. [Ruby](/guides/ruby.md) [WIP]
+5. [PHP](/guides/php.md)
+6. [Git](/guides/git.md) [WIP]
+7. [Trello](/guides/trello.md) [WIP]
 
 ## Credits
 
