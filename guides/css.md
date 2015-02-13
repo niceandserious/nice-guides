@@ -69,7 +69,7 @@ Try to stick to these rules:
 - Always include a semi-colon at the end of a declaration.
 - Include leading zeros, e.g. ```0.5px``` not ```.5px```
 - Zero values shouldn't include a unit
-- Have the closing curly brace on it's own line, at the same indent as the selector.
+- Have the closing curly brace on its own line, at the same indent as the selector.
 - Leave a blank line between rules.
 - Leave a blank line before nested selectors.
 - If a selector only has one rule, consider keeping it all on one line.
