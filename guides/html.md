@@ -60,5 +60,5 @@ Use [other language codes](http://reference.sitepoint.com/html/lang-codes) where
 
 Make sure to include fallbacks for multimedia content:
 - Always include ```alt``` text on ```<img>``` elements that explains what the image shows.
-  - Unless an image is purely decorative and you can't use CSS, use can use ```alt=""```
+  - Unless an image is purely decorative and you can't use CSS, in which case use ```alt=""```
 - If possible, provide video captions or audio transcripts.
