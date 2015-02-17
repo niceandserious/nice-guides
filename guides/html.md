@@ -3,7 +3,7 @@
 > Strive to maintain HTML standards and semantics, but not at the expense of practicality. Use the least amount of markup with the fewest intricacies whenever possible.
 > – [@mdo](http://mdo.github.io/code-guide/#html-practicality)
 
-## General style
+## Style :ok_woman:
 
 - Indent nested elements once, with 2 spaces.
 - Always use double quotes for attributes.
