@@ -55,7 +55,10 @@ Yes, it's longer to type and it's not as 'pure' but it wins every time for both 
 ## Tooling :wrench:
 
 - We use SCSS because it's awesome :v:
-- We use autoprefixer whenever possible so we don't have to worry about prefixes.
+- We generally use grunt to compile CSS, which allows us to:
+  - Use autoprefixer so we don't have to worry about prefixes.
+  - Smush the CSS to reduce file size.
+  - Add a cache-busting hash.
 
 ## Style :ok_woman:
 
