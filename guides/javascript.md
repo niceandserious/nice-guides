@@ -31,6 +31,8 @@ Currently, we use the [Revealing Module Pattern](http://addyosmani.com/resources
 - Don't use leading commas, it's a bit weird
 - Always use ```var``` to declare variables and use one per variable
 - Assign variables at the top of their scope, usually the module.
+- Use single quotes for strings.
+- Use ```===``` and ```!==``` instead of ```==``` and ```!=```
 
 Example:
 
