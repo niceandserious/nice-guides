@@ -2,14 +2,38 @@
 
 These guides are for keeping track of how we write code. We're aiming for both consistency and best practice, so that we can create clean and sustainable code. With everyone working towards the same style and structure, it makes working together that little bit easier! :dancers:
 
-## Contents
+## General principles
 
-1. [HTML](/langs/html.md)
-2. [CSS](/langs/css.md)
-3. [JavaScript](/langs/javascript.md)
-4. [Ruby](/langs/ruby.md)
-5. [PHP](/langs/php.md)
-6. [Git](/langs/git.md)
+- __Consistency__ of coding style is more important than adhering to any coding standard. If you’re working with an existing project or framework, use its existing style.
+- __Comment everything__ non-trivial (and even trivial things, if you like).
+  - Be clear, and as verbose as you like.
+  - Over-commenting is better than under-commenting.
+  - Write for your future self as much as anyone else.
+- Go for __readability over compression__.
+  - Plenty of whitespace!
+  - If a longer variable name makes the code more readable, do it!
+  - Let the build tools do the compression.
+
+## Editor preferences
+
+Install the [EditorConfig](http://editorconfig.org/) plugin for your text editor and try to use an ```.editorconfig``` file when you're starting a new project.
+
+To avoid inconsistencies and confusing diffs, try to stick to the following:
+
+- Use __soft tabs with 2 spaces__.
+- Trim trailing white space on save.
+- Set encoding to UTF-8.
+- Add new line at the end of files.
+
+## The guides
+
+1. [HTML](/guides/html.md)
+2. [CSS](/guides/css.md)
+3. [JavaScript](/guides/javascript.md) [WIP]
+4. [Ruby](/guides/ruby.md) [WIP]
+5. [PHP](/guides/php.md)
+6. [Git](/guides/git.md) [WIP]
+7. [Trello](/guides/trello.md) [WIP]
 
 ## Credits
 
